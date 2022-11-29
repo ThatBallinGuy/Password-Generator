@@ -54,7 +54,7 @@ THEN the password is either displayed in an alert or written to the page
 
 [Dashboard Link](https://github.com/ThatBallinGuy/Password-Generator)
 
-[Deployed Link](https://thatballinguy.github.io)
+[Deployed Link](https://thatballinguy.github.io/Password-Generator/)
 
 ## Screenshots
 
